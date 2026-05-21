@@ -1,0 +1,17 @@
+{
+  "name": "adn-supabase-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "vercel": "^48.0.0"
+  }
+}
